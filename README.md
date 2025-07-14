@@ -34,7 +34,10 @@ Ten projekt zawiera kolekcję testów w Postmanie dla publicznego API **GoREST**
 
 ### 🚀 Jak uruchomić ten projekt?
 
-1.[Pobierz kolekcję testów dla Postmana (plik .json)](https://github.com/Kamil-Szyszkowski/postman-api-tests/blob/main/Portfolio%20-%20GoREST%20API%20Tests.postman_collection.json)
+1.Możesz pobrać kolekcję, klikając w ten [link do pliku](https://github.com/Kamil-Szyszkowski/postman-api-tests/blob/main/Portfolio%20-%20GoREST%20API%20Tests.postman_collection.json).
+
 2.  Otwórz aplikację Postman i kliknij przycisk **Import**.
+  
 3.  Wybierz pobrany plik `.json`, aby zaimportować kolekcję.
+   
 4.  Aby uruchomić testy, należy skonfigurować środowisko (Environment) w Postmanie, dodając zmienną `accessToken` z własnym tokenem ze strony `gorest.co.in`.
