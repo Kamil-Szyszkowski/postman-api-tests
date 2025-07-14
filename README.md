@@ -1,5 +1,12 @@
 # Portfolio: Testy API dla GoREST (Postman)
 
+Cześć!
+Nazywam się Kamil Szyszkowski, jestem studentem informatyki i uczę się testowania oprogramowania.
+To repozytorium zawiera dokumentację testów manualnych zrealizowanych w ramach praktyki, kursów oraz własnej nauki.
+
+📫 Kontakt: kamilszyszkowskii@op.pl
+🔗 Zobacz mój profil na LinkedIn
+
 ### 📝 Opis projektu
 
 Ten projekt zawiera kolekcję testów w Postmanie dla publicznego API **GoREST**. Testy weryfikują podstawowe operacje CRUD (Create, Read, Update, Delete) na zasobie `/users`. Kolekcja obejmuje zarówno scenariusze pozytywne, jak i negatywne, demonstrując kompleksowe podejście do zapewnienia jakości API.
